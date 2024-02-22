@@ -1,4 +1,4 @@
-## 💻 HelloWorld, meu nome é Hugo!
+## 😊 HelloWorld, meu nome é Hugo!
 
 💜 Um Dev Fullstack apaixonado em produzir novas experiências.
 
@@ -20,15 +20,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
-
-## Experiência de trabalho
+## 💻 Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 **Frot-end Developer (Jr)** \
 [**Innovati**] • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `React`\
 Projeto em destaque: [Exati]()
-<br/>
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/hugorosa23/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
