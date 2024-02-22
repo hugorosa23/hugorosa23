@@ -1,4 +1,4 @@
-## 💻 **<HelloWorld/>**, meu nome é Hugo!
+## 💻 HelloWorld, meu nome é Hugo!
 
 💜 Um Dev Fullstack apaixonado em produzir novas experiências.
 
