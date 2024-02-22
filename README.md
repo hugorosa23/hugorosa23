@@ -21,7 +21,7 @@
 
 ---
 
-### Experiência de trabalho
+## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 **Frot-end Developer (Jr)** \
